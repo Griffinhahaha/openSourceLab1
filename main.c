@@ -4,6 +4,8 @@
  *  (C) 1991  Linus Torvalds
  */
 
+ // 修改
+
 #define __LIBRARY__
 #include <unistd.h>
 #include <time.h>

@@ -10,6 +10,8 @@
  * Fork is rather simple, once you get the hang of it, but the memory
  * management can be a bitch. See 'mm/mm.c': 'copy_page_tables()'
  */
+
+ //修改
 #include <errno.h>
 
 #include <linux/sched.h>
