@@ -3,8 +3,8 @@
  *
  *  (C) 1991  Linus Torvalds
  */
+//
 
-// 修改
 #include <errno.h>
 #include <signal.h>
 #include <sys/wait.h>
